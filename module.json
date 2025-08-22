@@ -8,7 +8,7 @@
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
   "scripts": ["scripts/module.js", "scripts/inventory-sheet.js"],
-  "styles": ["styles/styles.css"],
+  "styles": ["styles/style.css"],
   "esmodules": ["scripts/module.js"],
   "languages": [
     {
