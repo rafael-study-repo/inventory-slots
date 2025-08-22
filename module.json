@@ -1,0 +1,28 @@
+{
+  "id": "inventory-slots",
+  "title": "Inventory Slots (Mausritter-style)",
+  "description": "Converte o sistema de inventário de D&D 5e para um sistema de slots estilo Mausritter.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Rafael"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "system": ["dnd5e"],
+  "esmodules": ["scripts/module.js"],
+  "styles": ["styles/style.css"],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "url": "https://github.com/rafael-study-repo/inventory-slots",
+  "manifest": "https://raw.githubusercontent.com/rafael-study-repo/inventory-slots/main/module.json",
+  "download": "https://github.com/rafael-study-repo/inventory-slots/archive/refs/heads/main.zip"
+}
