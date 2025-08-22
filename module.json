@@ -1,4 +1,5 @@
 {
+  "id": "inventory-slots",
   "name": "inventory-slots",
   "title": "Inventory Slots (Mausritter-style)",
   "description": "Sistema de inventário baseado em slots para D&D 5e",
